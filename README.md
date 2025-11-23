@@ -31,6 +31,20 @@ For part 1, run the part1.py script to update the BLS data and print out links t
 ```bash
 python part1.py
 ```
+For convenience, here are the public links to the uploaded files:
+https://s3-rearc-quest-hs.s3.us-east-1.amazonaws.com/bls/pr/pr.class
+https://s3-rearc-quest-hs.s3.us-east-1.amazonaws.com/bls/pr/pr.contacts
+https://s3-rearc-quest-hs.s3.us-east-1.amazonaws.com/bls/pr/pr.data.0.Current
+https://s3-rearc-quest-hs.s3.us-east-1.amazonaws.com/bls/pr/pr.data.1.AllData
+https://s3-rearc-quest-hs.s3.us-east-1.amazonaws.com/bls/pr/pr.duration
+https://s3-rearc-quest-hs.s3.us-east-1.amazonaws.com/bls/pr/pr.footnote
+https://s3-rearc-quest-hs.s3.us-east-1.amazonaws.com/bls/pr/pr.measure
+https://s3-rearc-quest-hs.s3.us-east-1.amazonaws.com/bls/pr/pr.period
+https://s3-rearc-quest-hs.s3.us-east-1.amazonaws.com/bls/pr/pr.seasonal
+https://s3-rearc-quest-hs.s3.us-east-1.amazonaws.com/bls/pr/pr.sector
+https://s3-rearc-quest-hs.s3.us-east-1.amazonaws.com/bls/pr/pr.series
+https://s3-rearc-quest-hs.s3.us-east-1.amazonaws.com/bls/pr/pr.txt
+
 ### Part 2
 For part 2, run the part2.py script to update the population data and print out links to the location in the s3 bucket to view.
 ```bash
